@@ -43,8 +43,8 @@ bool shouldStartAP = false;
 
 
 // Configuration Strings
-const String supabase_url = "https://setudkogshcbaszcjtfo.supabase.co";
-const String supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNldHVka29nc2hjYmFzemNqdGZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM1NzA4NjEsImV4cCI6MjA1OTE0Njg2MX0.KQsc8LC7uJz3uZywWEyjzW5CxBlsHZA7ri5N1_-LdP8";
+const String supabase_url = "<SUPABASE_URL_link>";
+const String supabase_key = "<SUPABASE_SECRETE_KEY>";
 const String AIO_SERVER = "io.adafruit.com";
 const String AIO_USER = "Omkar1705";
 const String AIO_KEY = "<adafruit_API_KEY>";
